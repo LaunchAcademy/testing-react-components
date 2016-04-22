@@ -14,8 +14,10 @@
     "babel-preset-es2015": "^6.5.0",
     "babel-preset-react": "^6.5.0",
     "css-loader": "^0.23.1",
+    "enzyme": "^2.2.0",
     "isparta-loader": "^2.0.0",
     "jasmine-core": "^2.4.1",
+    "jasmine-enzyme": "^0.2.2",
     "karma": "^0.13.22",
     "karma-coverage": "^0.5.5",
     "karma-jasmine": "^0.3.8",
@@ -25,6 +27,7 @@
     "karma-webpack": "^1.7.0",
     "node-sass": "^3.4.2",
     "phantomjs-prebuilt": "^2.1.7",
+    "react-addons-test-utils": "^15.0.1",
     "sass-loader": "^3.1.2",
     "style-loader": "^0.13.0",
     "webpack": "^1.12.13"

@@ -1,3 +1,4 @@
+// main.js
 import 'babel-polyfill';
 import './main.scss';
 import React from 'react';
