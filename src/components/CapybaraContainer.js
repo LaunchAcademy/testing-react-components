@@ -22,7 +22,7 @@ class CapybaraContainer extends Component {
     let image, text;
 
     if (this.state.hasBird) {
-      image = 'http://tinyurl.com/zkgcwed';
+      image = 'http://tinyurl.com/jjpbwn6';
       text = 'Capybara with bird friend!';
     } else {
       image = 'http://tinyurl.com/jefhp9q';
